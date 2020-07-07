@@ -1,0 +1,6 @@
+server:
+  port: 20022
+  
+common:
+  ylw:
+    test: test
