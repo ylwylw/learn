@@ -1,6 +1,11 @@
 server:
   port: 20022
-  
+
+logging:
+  level:
+    root: info  
+
+
 common:
   ylw:
     test: test
