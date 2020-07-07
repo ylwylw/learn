@@ -3,4 +3,4 @@ server:
   
 common:
   ylw:
-    test: test
+    test: develop
