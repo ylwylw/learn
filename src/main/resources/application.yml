@@ -12,7 +12,9 @@ spring:
 
 logging:
   level:
-    root: info  
+    root: info
+  config: classpath:logback-spring.xml
+  file: /log/
 
 
 common:
