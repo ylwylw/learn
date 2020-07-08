@@ -3,7 +3,7 @@ server:
  
 spring:
   datasource:
-    url: jdbc:mysql://139.199.98.207:5666/eladmin?serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true&useSSL=false
+    url: jdbc:mysql://139.199.98.207:5666/shenxiaoyu?serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true&useSSL=false
     username: root
     password: shenxiaoyu
     type: com.alibaba.druid.pool.DruidDataSource
